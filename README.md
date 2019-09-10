@@ -1,1 +1,1 @@
-Git Javascript - William Doucette
+Git Javascript - William

@@ -1,4 +1,4 @@
-const name = 'William Doucette'
+const name = 'William'
 console.log(`hello, my name is ${name}.`)
 
 const number = 13
